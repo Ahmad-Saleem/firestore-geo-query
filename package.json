@@ -1,0 +1,34 @@
+{
+  "name": "firestore-geo-query",
+  "version": "1.0.0",
+  "description": "Geo-location query for firebase (firestore)",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmad-Saleem/firestore-geo-query.git"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "geo-location",
+    "geo",
+    "query",
+    "javascript"
+  ],
+  "author": "Ahmad Saleem",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Ahmad-Saleem/firestore-geo-query/issues"
+  },
+  "homepage": "https://github.com/Ahmad-Saleem/firestore-geo-query#readme",
+  "dependencies": {
+    "ngeohash": "^0.6.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}

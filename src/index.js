@@ -1,3 +1,8 @@
-import * as geo from './functions';
+import { createGeoHashingField, geoHashingBoundary, mapDistanceToBitDepth } 
+from './functions';
 
-export default geo; 
+import Geo from './Geo';
+
+export { createGeoHashingField, geoHashingBoundary, mapDistanceToBitDepth };
+
+export default Geo; 

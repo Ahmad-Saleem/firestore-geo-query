@@ -1,6 +1,6 @@
 {
   "name": "firestore-geo-query",
-  "version": "1.0.0",
+  "version": "0.6.0",
   "description": "Geo-location query for firebase (firestore)",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,9 @@
     "geo-location",
     "geo",
     "query",
-    "javascript"
+    "javascript",
+    "ES6",
+    "geo-hashing"
   ],
   "author": "Ahmad Saleem",
   "license": "Apache-2.0",
